@@ -1,0 +1,124 @@
+
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  color: #931a25;
+  margin: 0 0;
+  font-family: 'Dancing Script', cursive;
+}
+h2{
+  font-family: 'Grandstander', cursive;
+  color: #ed6663;
+}
+h3{
+  font-family: 'Grandstander', cursive;
+  color: #d49a89;
+  margin: auto;
+}
+p{
+  font-family: 'Merriweather', serif;
+  margin: auto;
+
+}
+
+
+.top{
+  background-color: #d6e0f0;
+}
+
+.middle-container{
+  background-color: #f5f1da;
+}
+
+.bottom-container{
+  background-color: #e8e8e8;
+}
+
+.head{
+  color: #e97171;
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
+}
+
+
+.first{
+  position: relative;
+  left: 218px;
+  padding-top: 300px;
+}
+
+.thir{
+  position: absolute;
+  left: 600px;
+
+}
+
+
+
+.prof{
+  background-color: #f6f6f6;
+}
+
+.pic{
+  height: 180px;
+  padding-top: 50px;
+}
+
+.profile{
+  width: 300px;
+  margin: auto;
+  padding-bottom: 80px;
+}
+
+.tab1{
+  margin-left: 33%;
+  margin-top: 30px;
+}
+.code{
+  height: 250px;
+  margin: 20px;
+}
+.coding{
+  width: 300px;
+  margin-top: 7px;
+}
+
+.article{
+  height: 250px;
+  margin: 20px;
+}
+.write{
+  width: 300px;
+  margin-top: 7px;
+}
+
+
+
+
+
+.contact-me{
+  background-color: #e8e8e8;
+
+}
+.btn{
+  color: #ed6663;
+  font-size: 20px;
+}
+.insta{
+  height: 33px;
+  margin: 10px 5px;
+}
+.tweet{
+  height: 33px;
+  margin: 10px 5px;
+}
+.whatsapp{
+  height: 33px;
+  margin: 10px 5px;
+}
+.last{
+  padding-bottom: 200px;
+}
